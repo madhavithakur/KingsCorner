@@ -29,8 +29,6 @@ above is the limit of what you need to implement.
 
 [kings-corner-rules]: https://www.pagat.com/layout/kingscorners.html
 
-**Copyright App Academy, please do not post online**
-
 KINGS CORNER is a multiplayer, card-shedding game with logic similar to Solitaire and FreeCell.
 
   [Corner]  [Regular] [Corner]
